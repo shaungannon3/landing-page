@@ -1,0 +1,21 @@
+<div class = "part1">
+<div class = "part1-header">
+    <div class = "header-logo">Header Logo</div>
+    <div class = "header-links"> 
+        <a href = "https://www.w3schools.com">header link one</a>
+        <a href = "https://www.w3schools.com">header link two</a>
+        <a href = "https://www.w3schools.com">header link three</a>
+    </div>
+</div>
+<div class = "part-1-content">
+    <div class = "website-info">
+        <h1>This website is awesome</h1>
+        <p>
+            This website has some subtext that goes here under the main title. 
+            It's a smaller font and the color is lower contrast.
+        </p>
+        <button type = "button">Sign Up</button>
+    </div>
+    <img src = "banff.jpg" alt="A picture of Banff National Park">
+</div>
+</div>
